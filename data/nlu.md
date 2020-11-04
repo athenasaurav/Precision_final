@@ -1,0 +1,2311 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- hell ooo
+- hey whos dis
+- hello i m [jeff](PERSON) what can i do for you
+- hey i m [jeff](PERSON) 
+- hey [john](PERSON) here
+- heyaa i m [rachel](PERSON) this side
+- its [jared](PERSON)
+- well hello whos dis?
+- whos calling
+- whos this
+- i m saurav what can i do for you?
+- Yes who's this.
+- long time no see
+- hello
+- hi
+- howdy
+- hey there
+- hey
+- greetings
+- I greet you
+- hi there
+- hello there
+- lovely day isn't it
+- hello again
+- just going to say hi
+- hi there
+- a good day
+- afternoon
+- hello hi
+- heya
+- hey
+- hi
+- hi
+- Hello
+- hey
+- hey man
+- hey there
+- hey buddy
+- oka
+- yo man
+- hola
+- GM
+- good morning
+- good morning to you
+- hello good morning
+- have a nice morning
+- have a great morning
+- morning
+- good morning there
+- top of the morning to you
+- a good morning
+- good morning to you
+- hi good morning
+- and a good morning to you
+- good morning too
+- good evening
+- good evening to you
+- hey good evening
+- hello good evening
+- evening
+- good evening there
+- have an awesome evening
+- happy evening 
+- good evening there buddy
+- have a good evening
+- enjoy the evening
+- GN
+- sweet dreams
+- good night
+- have a good night
+- good night to you
+- thank you good night
+- bye good night
+- good night bye
+- bye good night
+- good good night
+- good night for now
+- goodnight
+- night
+- thanks goodnight
+- good night see you tomorrow
+- alright goodnight
+- good tonight
+- okay have a good night
+- night
+- have a good night
+- this is [john](PERSON)
+- its [Trump](PERSON)
+- its [Rachel](PERSON)
+- its brian
+- its rachel
+- rachel this side
+- you are speaking to corey
+- its corey
+- i m corey
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+- have a nice day
+- okay see you later
+- hope to see you later
+- bye for now
+- till next time
+- I must go
+- bye
+- goodbye
+- see you
+- see you soon
+- bye-bye
+- bye bye good night
+- good bye
+- bye bye see you
+- bye bye see you soon
+- bye bye take care
+- I said bye
+- never mind bye
+- now bye
+- leave me alone
+- go to bed
+- goodbye for now
+- talk to you later
+- you can go now
+- get lost
+- goodbye see you later
+- alright bye
+- see ya
+- thanks bye bye
+- okay bye
+- okay thank you bye
+- see you tomorrow
+- ok bye
+- c u
+## intent:affirm
+- Sounds intresting but i would like to keep my options open
+- sounds exciting, but i 'd like to keep options open.
+- sounds very exciting, but i 'd like to keep my options open.
+- sounds nice, but i 'd like to keep the options open.
+- sounds tempting, but i 'd like to keep my options open.
+- sounds tempting, but i want to keep options open.
+- sounds like a great idea, but i 'd much like to keep my options open.
+- sounds tempting, but i wouldn't want to open my own options
+- there's something exciting, but i want to keep my options open.
+- sounds interesting, but i like to hold my options open.
+- sounds encouraging, but i 'd like to keep my options open.
+- sounds great, but i 'd like a little flexibility in my options.
+- sounds encouraging to me, but i want my options open.
+- it sounds tempting but i want to have options open.
+- sounds pretty sensible, but i 'll just keep my options open.
+- sounds interesting, but i 'd like to keep my options open and...
+- sounds tempting, but i have my options open.
+- sounds tempting, but i need the option open.
+- sounds promising, but i want to keep my options open.
+- sounds tempting, but i 'd be happy to keep my options open.
+- sounds reassuring, but i 'd like to keep options open
+- sounds pleasant, but i still want to have a choice open.
+- sounds promising, but i would prefer an open selection
+- sounds reassuring, but i 'd like to keep my options open.
+- sounds like it, but i still want to keep my options open...
+- sounds appealing to him, but i need to keep my options open.
+- sounds tempting but i want my options open.
+- sounds nice, but i 'd really like to keep my options open.
+- sounds great, but i 'd be happy to open my options.
+- sounds sensible, but i want to keep my options open.
+- sounds tempting, but i 'd like to have my options open.
+- sounds tempting, but i want to keep my options open, i have a choice.
+- sounds tempting but i 'd like to keep my options open.
+- sounds tempting, but i 'd like to have the option.
+- sounds tempting, but i 'd like to keep my options open on a few.
+- sounds nice, but i 'd like to be open for an opening
+- sounds like an excellent suggestion, but i want to keep my options open.
+- sounds exciting, but i 'd like to keep my options open.
+- sounds interesting, but i hope you keep my options open
+- sounds reasonable, but i 'd like to have options open.
+- sounds great, but i 'd like to keep my options open.
+- sounds tempting, but i 'd like to keep options open
+- sounds great, but i want to keep an open mind for my options.
+- sounds intriguing, but i 'd like to keep my options open, but i need a second chance
+- sounds appealing, but i 'd like my options open.
+- sounds promising, but i 'd like to keep open.
+- that sounds very nice, but i just want to keep my options open.
+- sounds tempting, but i like to have my options open.
+- okay I can look into that
+- yes i m
+- yes I used to do that
+- it is yes
+- yes it is
+- yes
+- that's awesome
+- that's great
+- that's fine
+- that's very good
+- indeed
+- alright
+- of course
+- that sounds good
+- correct
+- well yeah
+- Well yeah one yeah.
+- Yeah I usually do that.
+- Well I do I do I do a lot of my own real estate though but anyway go ahead.
+- it is
+- right
+- it isss
+- In one now so my real estate sectors probably full.
+- What about I think they're probably a good deal.
+- Yeah.
+- Get a good one independently back in the nineties it is custom attributes in a great way to hold land in good revenue come in in the in the yearly basis.
+- Normally we do
+- Normally we invest
+- That's true I do.
+- Almost years ago but yeah I'm familiar with the meeting.
+- Okay yes okay well I.
+- Yeah I see the potential value in that.
+- yeah
+- yeaah
+- yess
+- yesss
+- yup
+- yes done that
+- i m intrested in self storage
+- i m intrested in real estate
+- yes i will say it sounds intresting
+- yup i will say it sounds intresting
+- What about I think they're probably a good deal.
+- Well yeah one yeah
+- may I have I have I imagine storage but go ahead tell me tell me how you deal structure.
+- Show the way your dealership culture you guys are basically carried but thirty percent is that the way it works.
+- Sure you guys better putting us together you guys are basically carried for a thirty percent interest is that correct.
+- Are you are you selling units are out what do you look and how you how how you doing that.
+- yeah exactly
+- okay that's fine
+- I verdict
+- that is ok
+- I guess
+- okey
+- ya
+- yes i will be intrested into it
+- ok yes
+- yes it is
+- yep
+- yew
+- yeah 
+- yeah fine
+- yep okay
+- fine okay
+- yup
+- YEAH
+- okay buddy
+- oh okay
+- yeah sure
+- okay cool
+- coool
+- Alright
+- that is awesome
+- that is nice
+- that is wonderful
+- that was amazing
+- that was awesome
+- that was cute
+- that was pretty good
+- that was very good
+- that's a good idea
+- that's a good thing
+- that's amazing
+- that's awesome thank you
+- that's better
+- that's cute
+- that's fantastic
+- that's much better
+- that's nice of you
+- that's not bad
+- that's perfect
+- that's pretty good
+- that's really good
+- that's really nice
+- that's sweet of you
+- that's very nice
+- that's wonderful
+- this is awesome
+- this is good
+- this is great
+- yes you can say so
+- sure, you can say that.
+- yes, you can say whatever.
+- yes, you can.
+- yes, you can,
+- yes, you can say that.
+- yes, you can say so yourself.
+- oh, yes, you can say that.
+- oh, yes, you can say it.
+- but you can say it.
+- you can say that.
+- yes, you can say so.
+- yeah, well... you could say that.
+- yes, you may say it.
+- yes i have done more than a million dollar investment
+- i made more than a million.
+- yes, i made millions invested.
+- i made millions of dollars.
+- yes, i've invested too much for a million.
+- yes, i invested a million dollars.
+- i invested a million bucks.
+- i've invested more than a million dollars.
+- yes, i built more than a million.
+- oh, that's enough for a million dollars, right?
+- but if you look at the number, $ 1000,000, that means i've done more
+- i've invested more than a million.
+- i invested more than a million million dollars.
+- i invested millions of dollars.
+- yes, i've invested a million in you.
+- i put in over a million dollars.
+- yes, i did more than a million. it was a good investment.
+- yes, i've invested more than $ 1 million worth of research.
+- yes, i've invested more than a billion dollar.
+- yes, i took out a million dollars from the investment account.
+- i am an accredited investor
+- i'm an accredited investor.
+- i'm an authorised investor
+- i'm a qualified investor.
+- i am an accredited investor.
+- i'm an accredited investor. he called me a realist.
+- i'm an experienced investor.
+- i'm an accredited investor in the securities industry
+- i'm an accredited investor in a financial institution, and my name's anna jordan
+- i'm an accredited investor, a man with real potential, that's why i'm
+- i'm an accredited investor and the world's largest supplier
+- my name is an accredited investor.
+- i'm an accredited broker.
+- i have an accredited investor.
+- i'm an accredited investor
+- i'm an accredited investors.
+- i can try seventy-seven thousand dollars
+- i could try seventy-seven thousand dollars, okay?
+- 77 grand for $ 7,000
+- i'm going to try seventy-seven thousand bucks.
+- i 'll try seventy-seven grand.
+- i can do seventy-seven thousand.
+- i 'll try to make it more than seventy-seven thousand dollars.
+- i 'll have a 70-7,000 dollar offer!
+- i can try seven grand.
+- i 'll bet $ 700,000 that i can try seventy-seven thousand
+- but if it's not for me, i can try seventy-seven thousand dollars.
+- i 'll try seventy-seven thousand.
+- i can try seventy thousand.
+- i can try seventy-seven thousand.
+- i can try 70 grand in a week.
+- i 'll try 77,000 dollars.
+- i can do $ 7,000
+- i'm going to try seventy-seven thousand dollars, and i 'll tell you what.
+- i'm willing to try seventy-seven thousand dollars.
+- i could try for $ 7,000
+- yes i can do that amount
+- sure i can do that
+- yes, i can do that.
+- yes, i can do it.
+- yes, i can do this for you
+- yeah, i could do the same kind.
+- yes i can go for seventy-seven thousand dollars
+- sure, but seventy-seven thousand dollars?
+- yes, for seventy-seven thousand.
+- i'm going to go for $ 7,000.
+- yes, i 'll bet £7,000
+- yes, i can bring in $ 7.000.
+- i 'll give you $ 7,000 for me, but you could have it for seventy-
+- i 'll have it for seventy-seven thousand.
+- yes, i 'll have seventy-seven thousand.
+- oh, that's enough for seventy-seven thousand!
+- but if you're willing, i 'll go in seventy-seven thousand dollars.
+- i 'll put in £7,000 for seventy-seven thousand bucks.
+- i 'll go for $ 7,000.
+- i can have $ 7,000 for seventy-seven hundred...
+- i can go for seventy-seven grand!
+- yes, i can pay for a seventy-seven thousand.
+- i 'll pay 700,000 dollars.
+- yes, i can go for $ 7,000
+- yes, i can pay a seventy-seven or eighty thousand dollars.
+- yes, i can take you for $ 7,000.
+- yes, i 'll take $ 7,000 for seventy-seven grand.
+- you can call me accredited investor
+- you can call me an accredited investor.
+- you can call me accredited investor if you want.
+- you can call me an investment adviser.
+- you can call me an accredited investor
+- you can call me an accredited investor or an accredited investor.
+- you can call me `` the expert investor. ''
+- i can try seventy grand
+- i can try sixty grand a year.
+- i can try seventy-five grand.
+- i can only give seventy grand.
+- seventy grand
+- i can do seventy grand an hour.
+- i can make seventy two grand in seven days
+- i can try sixty eight grand.
+- i'm trying seventy grand.
+- i can try seventy seven grand in one day.
+- i 'll try seventy thousand.
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+- not
+- never
+- No I haven't.
+- Welll no actually
+- well no actually
+- i haven't given it a try
+- actually i still would like to give it a pass
+- nooo i wont be able to continue
+- actually not right now
+- right now its not perfect time to do it
+- I have not but yeah.
+- No I haven't never really mainly my real estate investment then residential commercial.
+- Probably not.
+- Yes but not in Texas and Florida.
+- yes but not anymore
+- yup but i dont do it anymore
+- No I haven't but I got a letter from your collection services
+- don't
+- don't want
+- need not
+- don't come 
+- never help
+- never
+- not needed
+- of course not
+- never
+- not at this time
+- not exactly
+- absolutely no
+- no forget
+- do not
+- don't
+- no thanks
+- no don't want
+- sorry no
+- don't want your help
+- I don't you help
+- I don't want your assistance
+- get out goodbye
+- i do not want your help
+- i don't need your help
+- i don't want your help
+- i am not okay with your help
+- don't want
+- do not
+- I don't need anything from you
+- nope i dont need your help
+- Don't show off
+- nope
+- nopes
+- That's aggravating
+- A million dollar is too much for me
+- the million-dollar will be enough for me.
+- a million for me isn't going to buy me a lot.
+- i'm not gon na make a million dollars.
+- a million dollar a month is too much for me.
+- a million dollars are not enough.
+- i'm afraid i can only afford a million dollars.
+- i 'd have a million for that.
+- a million would be more than enough for me.
+- there's too much for me!
+- million for nothing.
+- i'm too rich for a million.
+- a million is too much...... but i 'll do it.
+- i want a million bucks to go with me.
+- a million bucks is too much.
+- my million is too much for a week.
+- i 'll lose a million!
+- a million dollar makes me feel inadequate
+- a million dollars is too much.
+- a million is too much for one of us.
+- a million bucks for me.
+- my million is too much for a week.
+- a million dollars is too much!
+- a million dollar is a huge amount for me.
+- a million dollars is too much.
+- a million would be too much for me.
+- a million dollar as an accredited investor is to much i can do few grands
+- the millions as an accredited investor don't really do many favors.
+- a million for an accredited investor is a lot, but a lot of money is good, for a
+- i can do a lot of things for a million bucks as an accredited investor.
+- a million dollar as a accredited investor would do a lot for the country, but very few will ever
+- a million dollars as an accredited investor couldn't even think of this shit
+- i can do so much with a million dollars as an accredited investor of the state
+- a million dollar as an accredited investor could do a lot for a lot of money for them.
+- a million-dollar investor is much better than a few greek greek greek greeks
+- there is much i can do very little about this degree from my investment as an accredited investor in a
+- million dollar as an accredited investor is a great thing for them
+- i'm much obliged to know how much i can do with a million dollars that i can not
+- a million dollar as an authorised investor shouldn't have done very much.
+- even a million dollars from an accredited investing firm is worth more than
+- a million dollar as an an accredited investor is too much to take
+- millions of dollars as a good investor
+- a million dollars is a lot of money for a accredited investor.
+- a million dollar as an accredited investor is not much for me
+- a million dollar is the equivalent of a big one-man investment, and it's gon na
+- a million dollar as a guaranteed investor i can only do a few things.
+- a million dollars for an accredited investor is worth much more than that
+- one hundred fifty-four thousand i cant do can we go below that
+- the hundred-four thousand i do can't do is go lower.
+- four hundred thousand for each, i cant do
+- i can't get two hundred thousand  if we can only go below that
+- we can't go down below one hundred thousand i can do
+- a hundred fifty-four thousand i couldn't even do that.
+- i can't even write a hundred thousand i can go under that roof.
+- i can't do it for a hundred and fifty-four thousand, i have to go down
+- one hundred and fifty-four thousand dollars, we won't have to be able to get a
+- there's a hundred 50-46 thousand i can barely do.
+- one hundred fifty-four thousand i can't go that way, but... - no, no
+- i can't go down. i can't go below 200,000 that i can go
+- a hundred fifty-four thousand i 'll get a little better.
+- one hundred fifty-four thousand and we won't be able to get below that.
+- a hundred and forty thousand i can't do anything to lower
+- a hundred-four thousand canadian
+- can't i go less than one hundred thousand... can we go that way?
+- a hundred fifty or so can do it, or we can go down there.
+- a hundred fifty-four thousand, we can only go under it, i can do it.
+- i could barely do one hundred thousand, but i can only get that
+- i cant do hundred fifty-four thousand dollars
+- seventy-seven thousand i cant do can we go below that
+- seventy-seven- thousand i don't have power we can go below that level
+- 77 grand for can we keep below
+- seventy-seven thousand i can't do it below.
+- 70 thousand can we go down below?
+- seventy-seven thousand, can we go down under the pressure?
+- we can't go down there!
+- seventy-seven thousand can't go down.
+- seventy-seven thousand, i can't go lower.
+- there's still $ 700,000 i can barely do to go below.
+- we can't go under this $ 7,000
+- 47,000 i can't do it, we can't go down that
+- seventy-seven thousand i can't even get a lower
+- seventy-seven thousand can we go down
+- seventy-seven thousand of them can't we go to the minimum?
+- seventy-seven thousand we can't reach below
+- seventy-seven thousand, can't we get below?
+- 77 thousand can we go below?
+- seventy-seven thousand can we do it to the bottom?
+- 77,000 i can not go down
+- seventy-seven thousand i can't do that down there
+
+## intent:mood
+- thank you have a great day
+- good what can I do for you Brian
+- good what can I do for you Josh
+- good what can i do for you Preston
+- fine what can i do for you press ten
+- good what can I do for you
+- perfect
+- very good
+- great
+- amazing
+- yes good
+- yes i m good
+- yes fine how about you
+- ya doing well
+- yes fine
+- yup good
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+- correct
+- Okay Dokey
+- Also busy what's her what's on your mind.
+- i m fine thanks
+- I'm doing fine what can I do for you.
+- I'm good.
+- Okayyy
+- Going all right.
+- Know okay good.
+- well yeah
+- alright
+- I'm doing very well thanks for asking.
+- yes how are you
+- indeed how are you
+- of course how are you
+- that sounds good how are you
+- correct how are you
+- Okay Dokey how are you
+- Also busy what's her what's on your mind. how are you
+- i m fine thanks  how are you
+- I'm doing fine what can I do for you. how are you
+- I'm good. how are you
+- Okayyy how are you
+- Going all right. how are you
+- Know okay good. how are you
+- well yeah how are you
+- yes How you doing.
+- so cool
+- cool
+- that is good
+- glad to hear that
+- that's very nice of you
+- terrific
+- it's amazing
+- perfect
+- excellent
+- brilliant
+- it's good
+- it's great
+- fine
+- good
+- nice
+- very good
+- amazing
+- fantastic
+- great
+- good very good
+- really good
+- it is fine
+- it is good
+- it's great
+- it's perfect
+- much better
+- not bad
+- not too bad
+- it's very good
+- marvelous
+- pleasant
+- pretty good
+- really nice
+- splendid
+- straight
+- super
+- super fantastic
+- sweet
+- really well
+- very well
+- very nice
+- very then
+- wonderful
+- I'm glad to hear that
+- ok good
+- good for you
+- good to know
+- glad to hear it
+- so good
+- so nice of you
+- so sweet of you
+- it was good
+- oh well
+- good thing
+- that was good
+- it's awesome
+- okay good
+- it's fine
+- no it's okay
+- very nice
+- it's very good
+- good for you
+- Feeling happy
+- I am happy
+- I'm happy to see you
+- happy
+- if you're happy then I'm happy
+- I'm happy for you
+- I'm happy to help
+- I'm happy to see you
+- you made me very happy
+- I'm glad to see you 
+- I'm happy to talk to you
+- I was the happiest man on earth
+- I'm just really happy right now
+- I'm really happy I ran into you
+- I feel happiest when I'm chatting with u
+- Nobody but you can make me happy
+- Whenever I see you, I feel happy
+- ur smile always makes me happy
+- i feel happy
+- i was so happy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+- i m quite busy can we talk later
+- can you call back me later
+- Also busy what's her what's on your mind
+- I am all right what can I do for you quickly can we work.
+- How do I get so many of these calls pretty hard to describe firm anymore.
+- I am happy
+- I feel great
+- I'm fine
+- I had a great day
+- Me, wonderful!
+- I am amazed
+- You are too cool
+- I am loving it
+- I am starting to like this 
+- I am feeling great
+- I feel great
+- Doing fine
+- Never better
+- Feeling lucky
+- All great here
+- Fantastic day
+- What a great day
+- I'm inspired
+- I am sad
+- I don't feel very well
+- I am disappointed
+- my day was horrible
+- This is bad
+- I am sick
+- I am ill
+- I am all low today
+- Its dissapointing 
+- How irritating it is
+- Am irritated
+- I am not feeling well
+- This sucks!
+- I am feeling too bad
+- Worst day ever!
+- This feels bad
+- I feel low
+- Everything is bad today
+- I feel very sad
+- Feels horrible
+- This is depressing
+- I am depressed
+- I feel bored
+- I am feeling bored
+- life is boring
+- I am feeling empty
+- I feel useless
+- aweful
+- depressed
+- heavy
+- I am feeling quite lost
+- I am angry
+- I am feeling so angry
+- I am so annoyed
+- It's annoying
+- I'm furious
+- That is infuriating 
+- I'm very mad
+- Everything vexes me
+- I am outraged
+- That is outrageous!
+- I feel hostile
+- I am very frustrated
+- It is irritating me
+- I feel so offended
+- I am full of fury
+- I feel very belligerent
+- I hate doing this
+- I have no patience today
+- I could not control my anger
+- I am scared
+- I feel scared
+- I'm worried
+- I am terrified
+- That is frightening
+- I feel intimidated
+- That is intimidating
+- I am petrified
+- I am afraid
+- I feel anxious
+- I'm having a bad feeling
+- I'm fearful
+- I panicked
+- I shrank back in fear
+- I am scared to death
+- I broke out in a cold sweat
+- That startled me!
+- I'm spooked easily
+- I'm trembling from fear
+- I'm horrified
+- I am nervous
+- I am stressed out
+- I feel nervous
+- I am anxious
+- I feel anxious
+- This is nerveracking
+- This is nervewracking 
+- This is nerve racking 
+- This is nerve wracking 
+- I feel like I am going to throw up
+- I have a lump in my throat
+- I have butterflies in my stomach
+- I am a bundle of nerves
+- I am breaking out in a cold sweat
+- I am afraid of my own shadow
+- I am like a cat on hot bricks
+- I am jumping out of my skin
+- I am at my wits' end
+- I am tongue tied
+- I am on edge
+- I am very tense
+- I feel uneasy
+- I am alarmed
+- I am troubled 
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
+## intent:not_intrested
+- i m not intrested
+- sorry i m not intrested
+- ohhh this gonna suck
+- never ever call me again
+- i will never be intrested
+- stop wasting my time
+- actually i m not looking for this right now
+- please dont bother calling again
+- i'm not looking for this right now.
+- i'm not looking for her right now.
+- now i'm not looking for that.
+- now i don't want that right now.
+- i'm afraid i'm not looking for this right now.
+- i'm not looking for that right now.
+- actually, i'm not looking for it right now.
+- but i'm not looking for this right now.
+- i'm not looking for it right now.
+- actually, i'm not looking.
+- in fact, i'm not looking for this right now...
+- now i'm not looking for this.
+- actually, i don't want to be looking for her right now.
+- actually, i didn't look for her right now
+- i'm not looking for this right now or i'm going to go.
+- actually, i'm not looking for it now,
+- actually, i don't want it right now.
+
+## intent:occupation
+- he will be joining the team [Director](post)
+- he will be joining the team [director](post)
+- [Producer](post)
+- [producer](post)
+- he joined as [Full Stack Developer](post)
+- he joined as [full stack developer](post)
+- [CTO](post)
+- [cto](post)
+- he will be joining as [Founder](post)
+- he will be joining as [founder](post)
+- his post is [Co-Founder](post)
+- his post is [co-founder](post)
+- his post is [CoFounder](post)
+- his post is [cofounder](post)
+- he works in a team of [Backend Developer](post)
+- he works in a team of [backend developer](post)
+- he works as [team lead](post)
+- he works as [Team Lead](post)
+- [Automation Test Enginner](post)
+- [automation test enginner](post)
+- He is working with a team of [Front End Developer](post)
+- He is working with a team of [front end developer](post)
+- [Chief Startegist](post)
+- who is the [CFO](post) of our company?
+- [Finance](post)
+- [Accountant](post)
+- [program analyst](post)
+- [key accounts](post)
+- [Web Application Developer](post)
+- [Machine Learning Enginner](post)
+- [HR](post)
+- [Chatbot Developer](post)
+- [NLP Enginner](post)
+- [Chief Executive Officer](post)
+- [CEO](post)
+- [President](post)
+- [Chief Operating Officer](post)
+- [COO](post)
+- [Vice President of Operations](post)
+- [General Manager](post)
+- [Vice President of Marketing](post)
+- [Marketing Manager](post)
+- [Production Manager](post)
+- [Operations manager](post)
+- [Quality control manager](post)
+- [safety & environmental manager](post)
+- [safety and environmental manager](post)
+- [Office manager](post)
+- [Receptionist](post)
+- [Purchasing manager](post)
+- [Chief Architect](post)
+- [Software Architect](post)
+- [Principal Software Engineer](post)
+- [Team Lead](post)
+- [Software Engineer](post)
+- [Software Developer](post)
+- [Junior Software Developer](post)
+- [Senior Software Developer](post)
+- [Sr. Software Developer](post)
+- [Jr. Software Developer](post)
+- [Intern](post)
+- [Chief Digital Officer](post)
+- [CDO](post)
+- [Chief Innovation Officer](post)
+- [CIO](post)
+- [chief startegist](post)
+- who is the [cfo](post) of our company?
+- [finance](post)
+- [accountant](post)
+- [web application developer](post)
+- [machine learning enginner](post)
+- [hr](post)
+- [chatbot developer](post)
+- [nlp enginner](post)
+- [chief executive officer](post)
+- [ceo](post)
+- [president](post)
+- [chief operating officer](post)
+- [coo](post)
+- [vice president of operations](post)
+- [general manager](post)
+- [vice president of marketing](post)
+- [marketing manager](post)
+- [production manager](post)
+- [operations manager](post)
+- [quality control manager](post)
+- [[safety and environmental manager](post)
+- [office manager](post)
+- [receptionist](post)
+- [purchasing manager](post)
+- [chief architect](post)
+- [software architect](post)
+- [principal software engineer](post)
+- [team lead](post)
+- [software engineer](post)
+- [software developer](post)
+- [junior software developer](post)
+- [senior software developer](post)
+- [sr. software developer](post)
+- [jr. software developer](post)
+- [intern](post)
+- [chief digital officer](post)
+- [cdo](post)
+- [chief innovation officer](post)
+- [cio](post)
+- [founder](post)
+- [Chief Administrative Officer](post)
+- [CAO](post)
+- [Chief Analytics Officer](post)
+- [CAO](post)
+- [Chief Brand Officer](post)
+- [CBO](post)
+- [Chief Business Development Officer](post)
+- [CBDO](post)
+- [Chief Business Officer](post)
+- [CBO](post)
+- [Chief Commercial Officer](post)
+- [CCO](post)
+- [Chief Communications Officer](post)
+- [CCO](post)
+- [Chief Compliance Officer](post)
+- [CCO](post)
+- [Chief Creative Officer](post)
+- [CCO](post)
+- [Chief Content Officer](post)
+- [CCO](post)
+- [Chief Customer Officer](post)
+- [CCO](post)
+- [Chief Data Officer](post)
+- [CDO](post)
+- [Chief Design Officer](post)
+- [CDO](post)
+- [Chief Digital Officer](post)
+- [CDO](post)
+- [Chief Diversity Officer](post)
+- [CDO](post)
+- [Chief Events Officer](post)
+- [CVO](post)
+- [Chief Executive Officer](post)
+- [CEO](post)
+- [Chief Experience Officer](post)
+- [CXO](post)
+- [Chief Financial Officer](post)
+- [CFO](post)
+- [Chief Gaming Officer](post)
+- [CGO](post)
+- [Chief Genealogical Officer](post)
+- [CGO](post)
+- [Chief Growth Officer] (post)
+- [CGO](post)
+- [Chief Human Resources Officer](post)
+- [CHRO](post)
+- [Chief Information Officer](post)
+- [CIO](post)
+- i worked in sales for a long time
+- i worked in sales for a long time
+- long time i've worked on sales.
+- i've worked in the shop for a long time.
+- i've been in sales on a long term basis
+- i've worked in a lot of sales.
+- i've been working in a shop for a long time.
+- i've done a long time
+- i've worked in the business for a long time, and i never found anything.
+- i've done business for a long time.
+- i've worked in sales for a long time, my job is to protect your client.
+- when i was little, i worked in a department store...... and i've been working with
+- i've worked in sales for a long time.
+- i've done a lot of sales since then.
+- i've worked in the store for a long time.
+- i've worked for a long time as a salesman.
+- my shop was done for a long time.
+- i've been in business for a long time.
+- i have been working for a long time...
+- i've worked in a sales business for a long time.
+- i spent a long time working in retail.
+- i've worked with the salesmen a long time.
+- my job was selling long.
+- i've worked for long, working for a company.
+- i've worked for a very long time.
+- i've worked in advertising for a long time.
+- i've been in sales for a long time.
+- i worked a lot for a long time.
+- i worked in the shop for a long time.
+- i've worked in the business for a long time.
+- in the past, when i've worked in a sales center, i've worked in a
+- i've been working in sales for a long time.
+- i've worked a very long time for sales, that's why
+- i've worked on sales for a long time, i can assure you that... my clients will
+- you know... when i worked in sales, i kept busy.
+- i've been doing business for a pretty long time.
+- i've been in advertising for a long time.
+- i haven't worked for long.
+- i've always worked hard in sales.
+- i've worked in a big store for long time.
+- i've worked for long periods of sales and now it's time to take the lead.
+- for a long time, i had a shop in the store.
+- i've worked in sales for a very long time, my assistant, alexandra.
+- i've been working on the sale for a long time
+- i've worked in a shop for a long time.
+- i've done a great job for a long time
+- i worked in business for a long time, you know?
+- i've worked in sales for a long time. i have no regrets.
+- i worked very long as a sales person.
+- i've worked in the sale, long time
+- I am a [Data Scientist](post)
+- I work as a [frontend dev](post)
+- I work as a [project manager](post)
+- I work for [Stanford University](post)
+- I work for the AI research group of the turing centre of the, Vancouver, Canada
+- I work for the New York Times
+- I work for the new york times
+- I work in [innovation](post)
+- I work in [project management](post)
+- I am a [data scientist](post)
+- I am a [head of business intelligence](post)
+- I am a driver
+- I'm [project manager](post)
+- I'm a [bot developer](post)
+- I'm a [business woman](post)
+- I'm a [construction worker](post)
+- I'm a [conversation designer](post)
+- I'm a [developer](post)
+- I'm a [full stack developer](post)
+- I'm a [janitor](post)
+- I'm a [machine learning engineer](post)
+- I'm a [product manager](post)
+- I'm a [project manager](post)
+- I'm a [python developer](post)
+- I'm a [software engineer](post)
+- I'm a [student](post)
+- I'm a bot [developer](post)
+- I'm a real good [engineer](post)
+- I'm an [AI researcher](post)
+- I'm an [engineer](post)
+- I'm in [business](post)
+- I'm in [project mgmt](post)
+- I'm the [boss](post)
+- I'm the [developer](post)
+- I'm the [lead engineer](post)
+- Im a [full stack developer](post)
+- i was in real esatate
+- i was working as a real esatate agent
+- i run my own real estate buisness
+- its been long time ago now i m retired
+- i m retired now
+- i dont do anything now
+- i served in us army
+- i served with the military.
+- i served under us in the military.
+- i was in the army before.
+- i served in the military.
+- i've served with the army once.
+- i served at our troops
+- i've served in the military.
+- i served in american army
+- when i was in the military, i served in the military.
+- i've served in the military
+- i served in the army.
+- my military service was an army
+- i served in the military of our country.
+- i have served in the service of the army here today.
+- i served in the military
+- my military service.
+- i served with us.
+- i served in the unit
+- i served in the military before
+- i served in the u.s. army.
+- i served in the cavalry.
+- i was in the service of the military.
+- in the army, i served.
+- i served in the army before
+- i served in the military, i swear to you.
+- you know... when i was in the army...... i served in the military.
+- i served in the military once.
+- i served in the infantry.
+- i was serving in the military.
+- i served with us in the first line
+- i served for the military.
+- i served at a military unit.
+- i served under the service of the military.
+- i was working as a teacher in newyork
+- i was a teacher in newyork and i don't know anything about it.
+- i taught for teachers at new york.
+- i was teaching there as a teacher.
+- i was working as a teacher in new york's biggest city, the city of l.
+- i was working as a teacher in newton.
+- i worked as a teacher at a school in new york.
+- i was a teacher at new york city.
+- i was training as a teacher in new york
+- i'm a teacher in new york.
+- when i was a teacher in new york...
+- i've worked at school in new york
+- i was at a college in new york.
+- i worked as a consultant to the state of new york...
+- i worked in new york.
+- my teacher was newyork.
+- i've been working in new york for a while.
+- i was in new york.
+- i taught there in new york.
+- i teach in new york
+- i was a schoolteacher in new york.
+- i m a sales guy
+- i m into finanace and accountinf
+- i m into operations and managment
+- i m vice president of a company
+- i was working as a real esatate agent
+- i was working with a real esatate agent.
+- i operated as esatate agent
+- i was at the esatate for real agents.
+- i've worked in a real esatatat agent and i believe in the good doctor.
+- i was working as an esatate agent.
+- i worked as an esatologist.
+- i was working as an esatatate agent.
+- i've been working for an agent of real esatatate.
+- when i was a super agent, i worked as an esatatate.
+- i've worked as an esatatist agent.
+- i was doing a real esatate agent.
+- i worked as a consultant to the real esatate
+- i worked as a real agent.
+- my agent was an esatatale in real estate.
+- i've been working for esatate agent...
+- i'm an agent.
+- i'm just a real esatate agent, and i'm in here.
+- i worked as an agent for the esatate.
+- i worked in a department store once.
+- i operated in a department store.
+- i was at a department store.
+- i worked in a clothing store.
+- i work in a department store, and i don't think so.
+- i worked at the department store. he called me a little boy.
+- i worked in a department store for a long time.
+- i was working in an insurance company...
+- i've been in the department store all day,
+- when i was a shopkeeper, i worked in a department store that wasn't much, and
+- i've worked at a discount department store.
+- i worked in a shop.
+- i worked in a department store.
+- my wife told me that i work at a department store.
+- i work in a branch.
+- i worked in a shopping mall
+- i worked in a department store, but my name's alan.
+
+## intent:email
+- my email is [Carole@Hart.com](email)
+- my email is [Elinor_Stock@Higgenbotham.com](email)
+- my email is [K_Spivey@yahoo.com](email)
+- my email is [Kelly@Coulter.net](email)
+- my email is [M_Jones@Luna.com](email)
+- my email is [Mia_Gainey@gmail.com](email)
+- my email is [S_Calderon@Cofield.com](email)
+- my email is [Virginia@Brown.com](email)
+- my email is
+- you dont have my email 
+- how come you dont have my email
+- email is
+- yes the id is
+- please note down my email as
+- please note my email as
+- well i cant give you my email right now
+- sorry i dont remember my email right now
+- my kid made an email for me and i forgot id and password both
+- i can't give you my e-mail right now.
+- i can't give you an e-mail now.
+- i can't get your e-mail right now.
+- well, i can't answer your e-mail right now.
+- now i don't want my electronic mail.
+- i can't write my e-mail right now.
+- i can't send my email right now.
+- well, i can't email you right now.
+- so i can send your e-mail right now, right?
+- but i can't answer your e-mail right now
+- i can't send my email.
+- i can't even give you my e-mail.
+- i can't send an email to you right now.
+- my e-mails are not valid right now.
+- well, i didn't leave it to my email
+- i don't have a e-mail right now
+- i couldn't get you my e-mail right now.
+- e-mail me at brian-bryan.com
+- follow me on twitter at brian.cyne.com
+- write me at brian.com.
+- send me brian bingley `` e-mail at brian.com
+- write me on brian. ``
+- send me brian to write your name in pediatry. ``
+- mail me at brian.vocodia.com.
+- e-mail me to brian.vocodia.com.
+- send me the address of brian brian, my office invocodia.com
+- e-mail : brian.bramwell.com
+- i 'll call you at brian.com
+- send me at cindy.vocodia.com.
+- e-mail me brian brian at spic.edu
+- fax me at brian.c.e.u.k., email me at brian
+- send me an e-mail to brian brian.
+- send me to brian.7.7 and brian.brian.7.7.
+- write me at brian b.s.b., brian b.s.a.
+- e-mail me brian.brian.com
+- post me at brian.vocodia.com
+- mail me brian bianzio fromvocodia.com.
+- how do you have my address?
+- why don't you get my e-mail address?
+- why don't you have my email address
+- why don't you have an email address
+- why don't you give me an email address
+- why don't you have my email?
+- how come you don't know my address?
+- why don't you have an email address?
+- how come you don't know my email address?
+- how could i have missed your email address
+- how come you have no e-mail address?
+- how come you have my address?
+- how come you don't have my e-mail address?
+- why don't you do it with my email address?
+- how do you not have my address?
+- why don't you have my e-mail?
+- how do you have my email address?
+- how did you not get an e-mail address in the office?
+- how come you don't got my e-mail address?
+- how do you not have an email address?
+- why don't you give me an e-mail address
+- how come you don't have to give me an e-mail
+- how do you not have my e-mail?
+- why don't you give me your email address?
+- how do you not have my email?
+- why don't you have my email address?
+- how come you didn't have an address on my e-mail?
+## intent:force
+
+- well i stopped a long time ago
+- i lost a lot of money and wasnt profitable
+- not any perticular reson
+- couldnt find a good investment plan
+- returns where not good
+
+
+## intent:number
+- zero years
+- one years
+- two years
+- three years
+- four years
+- five years
+- six years
+- seven years
+- eight years
+- nine years
+- ten years
+- eleven years
+- twelve years
+- thirteen years
+- fourteen years
+- fifteen years
+- sixteen years
+- seventeen years
+- eighteen years
+- nineteen years
+- twenty years
+- twenty-one years
+- twenty-two years
+- twenty-three years
+- twenty-four years
+- twenty-five years
+- twenty-six years
+- twenty-seven years
+- twenty-eight years
+- twenty-nine years
+- thirty years
+- thirty-one years
+- thirty-two years
+- thirty-three years
+- thirty-four years
+- thirty-five years
+- thirty-six years
+- thirty-seven years
+- thirty-eight years
+- thirty-nine years
+- forty years
+- forty-one years
+- forty-two years
+- forty-three years
+- forty-four years
+- forty-five years
+- forty-six years
+- forty-seven years
+- forty-eight years
+- forty-nine years
+- fifty years
+- fifty-one years
+- fifty-two years
+- fifty-three years
+- fifty-four years
+- fifty-five years
+- fifty-six years
+- fifty-seven years
+- fifty-eight years
+- fifty-nine years
+- sixty years
+- sixty-one years
+- sixty-two years
+- sixty-three years
+- sixty-four years
+- sixty-five years
+- sixty-six years
+- sixty-seven years
+- sixty-eight years
+- sixty-nine years
+- seventy years
+- seventy-one years
+- seventy-two years
+- seventy-three years
+- seventy-four years
+- seventy-five years
+- seventy-six years
+- seventy-seven years
+- seventy-eight years
+- seventy-nine years
+- eighty years
+- eighty-one years
+- eighty-two years
+- eighty-three years
+- eighty-four years
+- eighty-five years
+- eighty-six years
+- eighty-seven years
+- eighty-eight years
+- eighty-nine years
+- ninety years
+- ninety-one years
+- ninety-two years
+- ninety-three years
+- ninety-four years
+- ninety-five years
+- ninety-six years
+- ninety-seven years
+- ninety-eight years
+- ninety-nine years
+- zero years old
+- one years old
+- two years old
+- three years old
+- four years old
+- five years old
+- six years old
+- seven years old
+- eight years old
+- nine years old
+- ten years old
+- eleven years old
+- twelve years old
+- thirteen years old
+- fourteen years old
+- fifteen years old
+- sixteen years old
+- seventeen years old
+- eighteen years old
+- nineteen years old
+- twenty years old
+- twenty-one years old
+- twenty-two years old
+- twenty-three years old
+- twenty-four years old
+- twenty-five years old
+- twenty-six years old
+- twenty-seven years old
+- twenty-eight years old
+- twenty-nine years old
+- thirty years old
+- thirty-one years old
+- thirty-two years old
+- thirty-three years old
+- thirty-four years old
+- thirty-five years old
+- thirty-six years old
+- thirty-seven years old
+- thirty-eight years old
+- thirty-nine years old
+- forty years old
+- forty-one years old
+- forty-two years old
+- forty-three years old
+- forty-four years old
+- forty-five years old
+- forty-six years old
+- forty-seven years old
+- forty-eight years old
+- forty-nine years old
+- fifty years old
+- fifty-one years old
+- fifty-two years old
+- fifty-three years old
+- fifty-four years old
+- fifty-five years old
+- fifty-six years old
+- fifty-seven years old
+- fifty-eight years old
+- fifty-nine years old
+- sixty years old
+- sixty-one years old
+- sixty-two years old
+- sixty-three years old
+- sixty-four years old
+- sixty-five years old
+- sixty-six years old
+- sixty-seven years old
+- sixty-eight years old
+- sixty-nine years old
+- seventy years old
+- seventy-one years old
+- seventy-two years old
+- seventy-three years old
+- seventy-four years old
+- seventy-five years old
+- seventy-six years old
+- seventy-seven years old
+- seventy-eight years old
+- seventy-nine years old
+- eighty years old
+- eighty-one years old
+- eighty-two years old
+- eighty-three years old
+- eighty-four years old
+- eighty-five years old
+- eighty-six years old
+- eighty-seven years old
+- eighty-eight years old
+- eighty-nine years old
+- ninety years old
+- ninety-one years old
+- ninety-two years old
+- ninety-three years old
+- ninety-four years old
+- ninety-five years old
+- ninety-six years old
+- ninety-seven years old
+- ninety-eight years old
+- ninety-nine years old
+-  working for over zero years old
+-  working for over one years old
+-  working for over two years old
+-  working for over three years old
+-  working for over four years old
+-  working for over five years old
+-  working for over six years old
+-  working for over seven years old
+-  working for over eight years old
+-  working for over nine years old
+-  working for over ten years old
+-  working for over eleven years old
+-  working for over twelve years old
+-  working for over thirteen years old
+-  working for over fourteen years old
+-  working for over fifteen years old
+-  working for over sixteen years old
+-  working for over seventeen years old
+-  working for over eighteen years old
+-  working for over nineteen years old
+-  working for over twenty years old
+-  working for over twenty-one years old
+-  working for over twenty-two years old
+-  working for over twenty-three years old
+-  working for over twenty-four years old
+-  working for over twenty-five years old
+-  working for over twenty-six years old
+-  working for over twenty-seven years old
+-  working for over twenty-eight years old
+-  working for over twenty-nine years old
+-  working for over thirty years old
+-  working for over thirty-one years old
+-  working for over thirty-two years old
+-  working for over thirty-three years old
+-  working for over thirty-four years old
+-  working for over thirty-five years old
+-  working for over thirty-six years old
+-  working for over thirty-seven years old
+-  working for over thirty-eight years old
+-  working for over thirty-nine years old
+-  working for over forty years old
+-  working for over forty-one years old
+-  working for over forty-two years old
+-  working for over forty-three years old
+-  working for over forty-four years old
+-  working for over forty-five years old
+-  working for over forty-six years old
+-  working for over forty-seven years old
+-  working for over forty-eight years old
+-  working for over forty-nine years old
+-  working for over fifty years old
+-  working for over fifty-one years old
+-  working for over fifty-two years old
+-  working for over fifty-three years old
+-  working for over fifty-four years old
+-  working for over fifty-five years old
+-  working for over fifty-six years old
+-  working for over fifty-seven years old
+-  working for over fifty-eight years old
+-  working for over fifty-nine years old
+-  working for over sixty years old
+-  working for over sixty-one years old
+-  working for over sixty-two years old
+-  working for over sixty-three years old
+-  working for over sixty-four years old
+-  working for over sixty-five years old
+-  working for over sixty-six years old
+-  working for over sixty-seven years old
+-  working for over sixty-eight years old
+-  working for over sixty-nine years old
+-  working for over seventy years old
+-  working for over seventy-one years old
+-  working for over seventy-two years old
+-  working for over seventy-three years old
+-  working for over seventy-four years old
+-  working for over seventy-five years old
+-  working for over seventy-six years old
+-  working for over seventy-seven years old
+-  working for over seventy-eight years old
+-  working for over seventy-nine years old
+-  working for over eighty years old
+-  working for over eighty-one years old
+-  working for over eighty-two years old
+-  working for over eighty-three years old
+-  working for over eighty-four years old
+-  working for over eighty-five years old
+-  working for over eighty-six years old
+-  working for over eighty-seven years old
+-  working for over eighty-eight years old
+-  working for over eighty-nine years old
+-  working for over ninety years old
+-  working for over ninety-one years old
+-  working for over ninety-two years old
+-  working for over ninety-three years old
+-  working for over ninety-four years old
+-  working for over ninety-five years old
+-  working for over ninety-six years old
+-  working for over ninety-seven years old
+-  working for over ninety-eight years old
+-  working for over ninety-nine years old
+- i m a Adolescent now
+- well i was working for around ten years
+- i did that for over fifteen years
+- i did for a long time
+- i did worked for 9 years
+- my age is fifty years
+- i am old enough
+- dont think that i m old enough
+- i m currently fourty five
+- i m ninteen
+- i m younger but yet old enough for that
+- i was working for eleven years
+- i was doing something else but i did worked for 45 years
+- well you can say i worked for thirty five years
+- 50 and coutning
+- i m thirty years old
+- haha yes i m fourty five now
+- this summer i turned fourty
+- this month i will turn fourty nine
+- next month i have my birthday, i will fifty then
+- next month's birthday.
+- next month i 'll have my birthday, and sixty-eight will be next year.
+- next month i 'll have my birthday.
+- next month, i have the anniversary.
+- next month, i want a grandchild and i 'll have a sixty-year-old.
+- next month i will be sixty.
+- next month i have a birthday.
+- next month i'm gon na have my birthday.
+- next month i have a birthday, i have 60
+- when i meet my parents, i'm going to see my birthday next month.
+- i 'll have my birthday next month.
+- next month i have a birthday, 60.
+- in the next month, i 'll have a birthday.
+- next month, i have an anniversary.
+- my next month, i'm going to have my birthday, i'm 60.
+- next month i have my birthday and i 'll be sixty-four.
+- next month, i'm gon na be seventy.
+- i'm on my birthday next month.
+- next month i have a baby.
+- my next year has my birthday.
+- next month, my birthday, i 'll have my 60th.
+- i have a birthday next month.
+- on my birthday, i have sixty to sixty.
+- next month, i 'll have my birthday.
+- i 'll have a birthday next month.
+- next month, i have a birthday and i'm sixty.
+- then i 'll have a birthday next month.
+- next month, i have my birthday, i'm going sixty two, then i can come with us
+- i turned fifty two last march
+- i turned sixty four last april
+- i m now fifty four
+- well i was working for around ten years
+- well, i've worked for thirty seven years.
+- i've worked for thirty six years.
+- i'm working for me for about eighteen years.
+- well, i worked for a decade.
+- i work for about ten years.
+- i worked for about fourteen years. he's a real genius.
+- well, i worked for around ten years.
+- well, i spent about nine years working for this, right?
+- but i worked for about ten years.
+- i've worked at about ten years.
+- i worked at 10 years.
+- i worked for about ten years and then stopped.
+- well, i worked here for 10 years.
+- well, i've worked a decade in the area.
+- well, i've worked for about 10 years...
+- well, i worked for about 10 years. it wasn't a crime.
+- i've worked for you for years.
+- i worked for about 10 years.
+- i did that for over 15 years
+- i've done it for over 15 years.
+- that's how i've been doing it for 15 years.
+- i've done it for more than 15 years.
+- that's a long time ago, for over 15 years
+- i do it for over sixteen years.
+- i've done it for fifteen years, not a single one of you has heard of it.
+- i've done it nine times.
+- i've done this for five years.
+- i've spent fifteen years doing this.
+- i've done that for two years.
+- i've done this for over a years.
+- i've will complete a years next month.
+- i've done it for over 15 years...
+- my whole life... i've done this for over twenty years.
+- i've been doing this for about fifty nine years.
+- this was over 15 years ago.
+- i've been doing this for 15 years.
+- i've done this for 15 years!
+- okay too long time but I think eleven years
+- long enough, but i think it takes 11 years.
+- okay, i've seen you a lot of time, but i think about eleven years.
+- i 'll be back for another six months, but i think 11 years.
+- all right, but 11 years
+- i've been thinking too long, but i think it's 11 years...
+- ok, for a long time, but i think you 'll be 11
+- okay, i think about it for a long time. but i think it's 11 years.
+- oh, yeah, that's too long, but i think... 11 years.
+- all right, i guess i 'll be there for a long time, but i think 11 years
+- but i think i've spent 11 years
+- i think i have 11 years.
+- it's still a long time, but now it's 11 years old.
+- i've been waiting a long time...... but i think i could have been 11 years old
+- it takes time too much for me, but i think i've had 11 years
+- it's too long, but i think i 'd like ten or eleven.
+- ok, i think there's been a good time, but i think it's been 11
+- okay, that's a long time, but i reckon i'm 11.
+- good, too long, but i think 11 years.
+- okay, i've been thinking about it for a while, but i'm thinking about 11
+- okay, for a long time, but 11 years.
+- the next time, but it's been a long time and i think it's 11 years
+- okay, it's been a long time, but i think a dozen years.
+- okay, but i think it's 11 years.
+- okay, a lot of time, and i think, 11 or 11 years
+- it's good, but i think about 11 years.
+- i 'd have liked long but i think about it for 11 years.
+- okay, it's been a long time, but i think...... 11 years.
+- i've been working too much, but i think he's 11 years old.
+- i think for a long time, but i want 11.
+- all right, you have gone on for too long - but the 11-year-old seems to
+- i m fifty 
+- i'm 40.
+- i'm fifty.
+- i'm 50
+- fifty-five
+- i'm 50 years old.
+- `` i'm fifty iced.
+- i'm 50, i'm a `` a ''
+- i'm fifty-eight.
+- my 50-year-old son.
+- i'm 50.
+- i have fifty.
+- i'm fifty-five.
+- i'm a fifty-centimeter man.
+- `` i'm fifty, ''
+- my fifty
+- i'm in 50
+- i'm thirty-five
+- i'm fifty-two.
+- i m 50.
+- fifty...
+- in 50 years, i've gone... ``
+- i'm 50 and i'm in love
+- 50, i'm 50.
+- i'm-i'm 50.
+- i have 50.
+- fifty
+- fifty.
+- 50 years.
+- i'm 50 and over.
+- fifty years.
+- i'm fifty!
+- 50.
+- m 40 i
+- i m thirty year old
+- i'm thirty years old.
+- i'm a doctor. i'm 30 years old
+- i'm thirty.
+## intent:acquaintance
+- sorry whos this
+- tell me about your personality
+- why are you here
+- talk about yourself
+- tell me some stuff about you
+- talk some stuff about yourself
+- I want to know you better
+- I want to know more about you
+- who are you
+- but who is this
+- hold on a sec who are you said
+- who is this
+- hang on who are you
+- who is this calling
+- tell me about yourself
+- tell me about you
+- about yourself
+- describe yourself
+- introduce yourself
+- say about you
+- what are you
+- define yourself
+- what is your personality
+- all about you
+- what are you upto?
+- who the hell are you?
+- what can you do for me?
+- what was that press 10
+- did u said press f10
+- did u said press 10
+- is ur name presten
+- who are you?
+- sorry what was ur name?
+- whos dis?
+- whose this?
+- whose dis?
+- whats that?
+- Can you tell me my name?
+- Can you tell me what I am called?
+- Do I have a name?
+- Do I have a name? What is it?
+- Do you know my name?
+- Do you know what my name is?
+- Explain my name to me.
+- I have a name, what is it?
+- I'd like to know my name
+- I'd like to know what my name is
+- Inform me what my name is
+- May i know my name?
+- Please let me know what my name is
+- Say my name.
+- Tell me my name
+- Tell me my name.
+- What am I called?
+- What could be my name?
+- What did my parents name me?
+- What do I call myself?
+- What do my colleagues call me?
+- What do people call me?
+- What does everyone call me?
+- What else do people call me?
+- What exactly is my name?
+- What is my first name?
+- What is my full name?
+- What is my name?
+- What is the name I was given?
+- What name do I go by?
+- What name should I recognize for myself?
+- What was I named?
+- What would be the name on my tombstone?
+- can you tell me my name?
+- what is my name
+- what is my name?
+- what's my name?
+- pardon me whos dis?
+- did you said press 10
+- did you said press ten
+
+## intent:real
+- you are real
+- you are not fake
+- are you real
+- you are so real
+- I think you are real
+- I don't think you're fake
+- I suppose you're real
+- glad you're real
+- are you a real person?
+- are you a real human?
+- you are a real person
+- you are not real
+- are you real?
+- why there is so delay in your replies
+- are you a computer program
+
+## intent: real_estate
+- what type of real estate
+- sorry i cannot understand what type of real estate
+- explain real estate for me
+- whats real estate
+- what kind of real estate was that?
+- what kind of real estate?
+- what kind of real estate...
+- what type of real estate is it?
+- what kind of real estate are you doing?
+- what's real estate?
+- what kind of real estate is that?
+- what kind of real estate is?
+- how much real estate
+- what a real estate
+- what properties
+- what type of land
+- what type of real estate are you in?
+- what kind of real estate is in place?
+- `` what kind of real estate are you building? ''
+- what real estate
+- what's a real estate property
+- what kind of real estate
+- what kind of real estate are you looking for?
+- what kind of real estate is this?
+- what land
+- what kind of housing
+- how kind of real estate
+- in which area
+- what kind of real estate is there?
+- what types of real estate?
+- what kind of real estate can be sold?
+- what kind of real estate does yours have?
+- the kind of real estate
+- any property
+- what kind of real estate is he building?
+- what kind of real estate are you talking about?
+- what real estate you 'll have
+- what kind of real estate does he have?
+- like real estate.
+- what kind of real estate business
+- what kind of real estate do you have?
+- what kind of real estate are you talking about?
+- what real estate you 'll have
+- what kind of real estate does he have?
+- like real estate.
+- what kind of real estate business
+- what kind of real estate do you have?
+- what are you talking about?
+- what's the real estate?
+- what do you mean, real estate?
+- what kind of assets are you talking about?
+- what is the real estate you're talking about, right?
+- what kind of land do you want to sell?
+- what's your real estate?
+- how come you're talking about real estate?
+- what kind of real estate do you think your people have?
+- what kind of land are you talking about?
+- what exactly do you mean by real estate?
+- what kind of property do you mean?
+- what kind of real estate you're talking about, jennifer?
+- what kind of real estate you're talking about, what kind of apartment are you in?
+## intent: duration
+- you are doing this for how much time now
+- for how long you have been doing this
+- How long have you been doing this?
+- how long do you do that?
+- how long have you been working?
+- how long have you been in prison?
+- how long do you have? i don't know.
+- how long have you been in this place?
+- how long have you been in it?
+- how long have you been doing this?
+- how long have you worked on that?
+- how long do you think this is going to last?
+- when have you been doing this?
+- how long have you been with this thing?
+- how long have you done it?
+- how long have you been in this?
+- how long have you been here?
+- how long have you been with him?
+- how long have you had it?
+- how long have you known?
+- how long have you been doing this to me?
+- how long has it been since you've done this?
+- how long do you have it?
+- how long have you been holding it?
+- how long did you work on this?
+- how long have you taken this?
+- how long have you been doing this.
+- how long have you lived?
+- how long have you been taking on?
+- how long have you done this for?
+- how long do you work?
+- how long have you been doing that?
+- how long have you done this job?
+- how long have you been in here?
+- how long have you two been doing this?
+- how long have you worked on it?
+- how long do you hold on to this?
+- how long have you been doing this in the first place?
+- how long have you been working on this?
+- how long have you been working on it?
+- how long have you been doing this for?
+- how long were you going?
+- how long have you been holding that?
+- how many times have you done this?
+- how long did you keep doing it?
+- how long have you been doing this job?
+- how long does this job take?
+- how long are you dating?
+- how long have you done your job?
+- how long did she last?
+- how long have you been?
+- how long do you have to do this?
+- how long have you been in this job?
+- how long have you kept doing this?
+- how long did you do this?
+- how long have you been dating?
+- how long have you been doing what?
+- how long have you been awake?
+- how long are you going to do that?
+- how long have you done this?
+- how do you have it done?
+- how long do you plan to do this?
+- for how long?
+- have you done this for a while?
+- how long have you worked with that?
+- how long have you operated this way?
+- how long have you been taking this medicine?
+- how long have you been driving?
+- how long did you last?
+- how long before you do this?
+- how long have you worked?
+- how long have you been doing the job?
+- how long have you been out?
+- how long have you been in this room for?
+- how long have you been holding back?
+- how long do you have?
+- how long have you worked on this?
+- how long have you been on this?
+- how long have you been on top?
+- how long have you been writing this down?
+- how long have you slept?
+- how long have you been smoking?
+- how long have you been in there?
+- how long ago were you doing this?
+- how long have you worked on the book?
+- how long have you done this before?
+- how long do you keep doing this?
+## intent: my_profession
+- so you are call center guy or from precison global
+- are you working as a real estate agent?
+- What do you do? 
+- what exactly is your work
+- sorry what do you do there
+- What do you do? 
+- what are you doing?
+- what are you doing now?
+- what are you doing here?
+- what's going on?
+- what do you do?
+- what do you do, kyle?!
+- what do you do for a living?
+- how do you do it?
+- what are you doin '?
+- what have you done?
+- what do you want to do now?
+- so how do you do it, ?
+- what will you do?
+- what do we do?
+- what did you do?
+- how do you do that?
+- what are you doing to me?
+- what do you know?
+- what do you do now?
+- what will he do?
+- what 'd you do?
+- what is your profession
+- what's your profession?
+- what's your profession...
+- your profession
+- what do you do for your profession?
+- what kind of profession
+- what's your profession, mr. kirk?
+- what's your profession like?
+- what is your profession?
+- what are your occupations?
+- what are your hobbies
+- what is your profession... you do your work.
+- what are your skills
+- what profession?
+- what kind of profession would you be?
+- what's your profession, what's your profession? >>>>>>>> what kind of work do
+- what's your profession
+- what are your duties
+- what did you do at work
+- what kind of profession are you?
+- how do you find your profession?
+- what do you have in your profession?
+- what are you doing at work
+- what are your profession
+- what profession is that?
+- what's your occupation
+- what is he doing? what is your profession?
+- what's yours
+
+
+
+## intent:location
+- do you work?
+- where do you work?
+- where you work?
+- where is your work?
+- where is your office?
+- where is your office location ?
+- your office location?
+- where is your office located?
+- what is your work?
+- place where you work?
+- your work place?
+- What is your job?
+- What is your job?
+- whats your job?
+- What is your job?
+- Do you have a job?
+- Did you get a job?
+- Did you find a job?
+- I hope you get the job
+- You have a job, don't you?
+- Do you work here fulltime
+- Do you work here parttime
+- Are you from around here?
+- Around where are you from?
+- Do you know where you come from?
+- From where did you come?
+- So where are you from
+- What area are you from?
+- What citizenship do you lay claim to?
+- What city are you in?
+- What city do you claim to for your birth?
+- What city were you born in?
+- What country are you from?
+- What country were you born in?
+- What is your birthplace?
+- What is your heritage?
+- What is your origin?
+- What is your original location?
+- What is your root?
+- What location are you from?
+- What state were you born in?
+- What's the name of the place you came from?
+- Where are you located?
+- Where are you?
+- Where are your origins?
+- Where are your roots?
+- Where did you come from?
+- Where did you grow up?
+- Where did you originate?
+- Where do you come from?
+- Where do you consider home?
+- Where do you live?
+- Where from?
+- Where might you be from?
+- Where were you at before you were here?
+- Where were you born?
+- You live around here?
+- You were conceived in what location?
+- are you from around here?
+- what country are you from?
+- where are from
+- where are you from
+- where are you from?
+- where are your parents from?
+- where did you come from?
+- where did you grow up?
+- where did you spend your youth?
+- where do you come from?
+- where do you live
+- where do you live?
+- where's your home town?
+- were you born here
+- where were you born
+- what is your country?
+- where are you from
+- where do you come from
+- where did you come from
+- where have you been born
+- from where are you
+- are you from far aways
+- what's your homeland?
+- your homeland is
+- Where are you from?
+- Let me know about the origin of u
+- your native?
+- where do you live
+- in which city do you live
+- your residence
+- your house
+- your home
+- your hometown?
+- what is your hometown
+- is it your hometown
+- where is your hometown
+- tell me about your city
+- what is your city
+- what is your residence
+- what is your town
+- what's your city
+- what's your home
+- where is your home
+- where is your residence
+- where's your home
+- where's your hometown
+- where's your house
+- where you live
+- your city
+- your town
+- What is your hometown?
+- where do you live?
+
+
+## intent:information
+- I'm doing okay how did you get my number
+- i m good, how are you. hey how did you get my number
+- yes how are you hey how did you get my number
+- indeed how are you hey how did you get my number
+- of course how are you hey how did you get my number
+- that sounds good how are you hey how did you get my number
+- correct how are you hey how did you get my number
+- Okay Dokey how are you hey how did you get my number
+- Also busy what's her what's on your mind. how are you hey how did you get my number
+- i m fine thanks  how are you hey how did you get my number
+- I'm doing fine what can I do for you. how are you hey how did you get my number
+- I'm good. how are you hey how did you get my number
+- Okayyy how are you hey how did you get my number
+- Going all right. how are you hey how did you get my number
+- Know okay good. how are you hey how did you get my number
+- well yeah how are you hey how did you get my number
+- perfect how did you get my number
+- very good how did you get my number
+- great how did you get my number
+- amazing how did you get my number
+- yes good how did you get my number
+- yes i m good how did you get my number
+- yes fine how about you how did you get my number
+- ya doing well how did you get my number
+- yes fine how did you get my number
+- yup good how did you get my number
+- wonderful how did you get my number
+- I am feeling very good how did you get my number
+- I am great how did you get my number
+- I'm good how did you get my number
+- correct how did you get my number
+- Okay Dokey how did you get my number
+- Also busy what's her what's on your mind. how did you get my number
+- i m fine thanks how did you get my number
+- I'm doing fine what can I do for you. how did you get my number
+- I'm good. how did you get my number
+- Okayyy how did you get my number
+- Going all right. how did you get my number
+- Know okay good. how did you get my number
+- well yeah how did you get my number
+- alright how did you get my number
+- perfect how did you know me
+- very good how did you know me
+- great how did you know me
+- amazing how did you know me
+- yes good how did you know me
+- yes i m good how did you know me
+- yes fine how about you how did you know me
+- ya doing well how did you know me
+- yes fine how did you know me
+- yup good how did you know me
+- wonderful how did you know me
+- I am feeling very good how did you know me
+- I am great how did you know me
+- I'm good how did you know me
+- correct how did you know me
+- Okay Dokey how did you know me
+- Also busy what's her what's on your mind. how did you know me
+- i m fine thanks how did you know me
+- I'm doing fine what can I do for you. how did you know me
+- I'm good. how did you know me
+- Okayyy how did you know me
+- Going all right. how did you know me
+- Know okay good. how did you know me
+- well yeah how did you know me
+- alright how did you know me
+- how did you get my number
+- how did you get my number?
+- how did you get my number like that?
+- how did you get the number?
+- how did you get my phone number?
+- how did you get my number, mr. mcmobb?
+- how did you get a number?
+- how do you get my number?
+- how did you get my number for me?
+- how did you pick my number?
+- how did you put on my phone number?
+- how you got the number, how you got it!
+- how did you get that number?
+- how do i find my number?
+- how did you find my number,
+- how did you find my number?
+- how did you get my number on the phone?
+- how did you get the number of the hotel?
+- you took my number
+- how do you get me number?
+- how did you get my number from your mobile?
+- how did you get her number?
+- how did you catch my number
+- how could you have given me my number?
+- how did you get my number from the bank?
+- how could you call my number?
+- how did you get my number, mr. gabbard?
+- how do you get my number.
+- how did you get my number from my phone?
+- how do you get the number?
+- how did you get my number, what's your address?
+- how did you get the number of the number?
+- how did you get my...
+- how did i get that number?
+- how do you know my phone number
+- how do you have my number?
+- how did you get my number, sir?
+- how do you get the number from me?
+- how do you find my number?
+- how did you get me my number?
+- how did you get my number to your home?
+- how did you get my number, paula?
+- how did you find my phone number?
+- how you got my number?
+- how did you get my number from the stationery?
+- how did you get my number on the line?
+- how 'd you get my number?
+- how do i get my number?
+- how did you call me my number?
+- how do you know my number?
+- how you got my numbers?
+- how do you give me the number?
+
+
+## intent:Voicemail
+- 407-733-2995 is not available
+- number is not available
+- this number is not available
+- Caldwell is not available at the tone please record your message when you have finished recording you may hang up or press one for more options
+- i m not available please leave a meesage after beep.
+- staying with Mazda Caldwell available at the tone.
+- the Google subscriber you have called is not available
+- the subscriber you have called is not available
+- 96712 is not available at the tone please record your message when you have finished recording you may hang up or press one for more options
+- for 633-2165 is not available at the tone please record your message when you have finished recording you may hang up or press one for more options
+- sorry the message is not recorded go ahead press the pound key when you have finished
+- turn your call please thank you
+- if you would just leave a quick message with the details about your call and I'll respond as soon as I can thank you so much bye
+- nothing has been recorded record your message after the tone simply hang up when done or for delivery options press the pound sign
+- 95280 6
+- Mark Burley is not available
+- so 977-5553 is not available at the tone please record your message when you have finished recording you may hang up or press one for more options
+- 912-2190 is not available at the tone please record your message when you have finished recording you may hang up or press one for more options
+- please leave me a message return phone number and I will get back to you
+- currently out of the office so please leave your name and number and I will get back with you as soon as possible thank you for your call
+- 34156 6
+- tone please record your message
+- 567-624-2933 is not available
+- 655-667-4177 is not available
+- you heard the latest
+- please leave your name phone number and a short message after the beep we will call you back as soon as possible thank you
+- please leave a message thank you
+- call again later announcement
+- if you are satisfied with your message press one to listen to your message press two to erase and re-record press three to continue recording where you left off press 4
+- or some remodeling work please leave your name and number or text me at 314-229-7249 and I will get ahold of you at the end of the business day thank you and have a great day
+- at the tone please record your message when you've finished recording you may hang up or press one for more options
+- I'm sorry I'm not able to take your call at this time so please leave a detailed message and I'll call you back soon thanks for calling
+- message and phone number I'll be sure to get back to you as soon as possible thanks for calling and have a great day
